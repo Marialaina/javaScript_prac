@@ -2,7 +2,7 @@ const name = "marialaina";
 
 
 const hello = () => {
-    console.log('I was baked' + name);
+    console.log('Hello ' + name);
 };
 
 hello();
